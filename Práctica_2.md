@@ -1,9 +1,0 @@
-#INFOGRAFÍAS 2
-
--La infografía seleccionada representa la historia geológica de la Tierra, haciendo especial énfasis en el surgimiento y en la evolución de la vida. El título, por lo tanto, es “History of Life as we know it”. La división en eones y periodos se realiza en una especie de gráfico circular que busca asemejarse a la forma de la Tierra (los dibujos son parte de la litosfera y en ellos se observan animales u objetos representativos de cada periodo). Aparecen también las extinciones masivas y los procesos de cambio de la deriva continental (se marcan en el círculo los principales eventos de la Tierra, incluyéndose los antiguos supercontinentes).  La elección de los dibujos resulta clara y su interpretación general bastante sencilla. La compartimentación del espacio me parece, asimismo, muy acertada, pues el autor deja espacios, y el fondo en cuadrícula evita el horror vacui. Con respecto a los colores, cabe señalar que hay una clara diferenciación entre el gris de los “Contiental Drift Events” y el planeta, multicolor, favoreciendo el contraste y la división de los periodos. 
-Nombre: Historyoflife.png / Dimensiones: 1240 × 949 / Tipo MIME: image/png
-https://lemondedesetudes.fr/wp-content/uploads/2014/08/Historyoflife.png
-
--Antes de terminar estas dos tareas, me gustaría hacer mención a una última cosa relacionada con las infografías. En la feria del libro de este otoño, encontré un libro titulado “Infografías de la Antigua Roma”. Me sorprendió muchísimo por su estética y por su originalidad, por lo que decidí comprarlo. Me parece un ejemplo genial de lo que deberían ser los libros de infografías, pues simplifica información muy enrevesada en gráficos y dibujos que, a pesar del detalle y la complejidad (necesitas sentarte un rato para entender toda la información que representan), son atractivos de leer y enganchan al lector. Dejo también por aquí el enlace del Book Trailer: https://www.youtube.com/watch?v=C4F6Qvdo8Hk&t=33s
-
-
