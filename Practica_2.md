@@ -30,6 +30,6 @@
 
 -	Finalmente, cabe también señalar que puedes incluso generar tus propias visualizaciones de datos (gráfico en árbol, stacked, network, rings, geo map, line o scatter). En este caso podemos observar un tipo de gráfico Stacked que he personalizado yo mismo. En las opciones de creación he seleccionado que nos muestre las exportaciones de Canadá a Andorra entre 2002 y 2013.
 
-- CONSULTAR IMAGEN 2 EN EL REPOSITORIO Imagenes_practica_2.md
+- CONSULTAR IMAGEN 4 EN EL REPOSITORIO Imagenes_practica_2.md
 
 
